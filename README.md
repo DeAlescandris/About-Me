@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Simone from Italy<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Simone from Italy<br><br>- 🎓 I'm studying at the University of "Tor Vergata"<br>- 📚 I'm currently expanding my knowledge in single-player game programming<br>- ⚡ In my free time I am a videomaker</p>
 
 ###
 
